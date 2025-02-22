@@ -3,9 +3,9 @@ game 'gta5'
 
 lua54 'yes' -- Enables Lua 5.4 support
 
-author 'Your Name'
-description 'Standalone Blip System with Command Support'
-version '1.2'
+author 'CodyDaGrizz'
+description 'Standalone Blip System'
+version '1.0'
 
 shared_script 'config.lua'
 
